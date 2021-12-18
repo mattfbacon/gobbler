@@ -1,0 +1,10 @@
+clang++
+-Weverything
+-std=c++20
+-Wno-c++98-compat-pedantic
+-Wno-c++98-compat
+-Wno-c++11-compat
+-Wno-c++17-compat
+-Wno-c++20-compat
+-iquoteinclude
+-isystemsysinc
